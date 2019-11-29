@@ -63,6 +63,5 @@ public class logFile {
 		}
 		return checkFile;
 	}
-	//Check log file existence // 
 	
 }
